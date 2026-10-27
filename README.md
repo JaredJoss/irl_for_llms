@@ -1,5 +1,8 @@
 # Inverse Reinforcement Learning for Large Language Models
 
+> [!IMPORTANT]
+> This repository is archived and no longer maintained. The maintained code for this project is at [ai4ai-lab/irl_for_llms](https://github.com/ai4ai-lab/irl_for_llms).
+
 This repository implements **Inverse Reinforcement Learning (IRL)** for extracting reward models from **Reinforcement Learning from Human Feedback (RLHF)**-fine-tuned Large Language Models (LLMs). The project includes scripts for fine-tuning LLMs, creating IRL datasets, and applying Max-Margin IRL.
 
 ## Environment Setup
